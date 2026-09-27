@@ -24,8 +24,8 @@ Database Migration Management Tool for [Marten](https://github.com/JasperFx/mart
 ### Prerequisites
 
 Before starting, ensure the following prerequisites are met:
-- .NET 9 or .NET 10 SDK/runtime. The library and CLI target `net9.0;net10.0`
-  and use Marten 9.22.6; .NET 8 is no longer supported.
+- .NET 10 SDK/runtime. The library, CLI, tests, and samples target `net10.0`
+  and use Marten 9.22.6; .NET 8 and .NET 9 are no longer supported.
 - [Docker](https://docs.docker.com/engine/install/) is installed.
 - The **Sable** .NET tool is installed by running the following command:
 
